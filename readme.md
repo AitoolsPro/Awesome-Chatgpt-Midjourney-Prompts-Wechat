@@ -1,6 +1,6 @@
 <div align="center">
-	<a href="https://www.aitools.chat">
-		<img width="500" height="350" src="media/aitools-logo-favicon.svg" alt="Awesome">	
+	<a href="https://www.aitools.chat/">
+		<img width="500" height="350" src="media/aitools-logo-favicon.svg" >	
 	</a>
 			
 </div>
