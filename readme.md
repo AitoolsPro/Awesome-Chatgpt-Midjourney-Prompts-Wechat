@@ -1,10 +1,8 @@
 <div align="center">
-	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="media/aitools-logo-favicon.svg" alt="Awesome">
-		
+	<a href="www.aitools.chat">
+		<img width="500" height="350" src="media/aitools-logo-favicon.svg" alt="Awesome">	
 	</a>
-	
-		
+			
 </div>
 
 <p align="center">
