@@ -30,7 +30,7 @@
 - [Aitools 艾兔思](#aitools-艾兔思)
 - [分类导航](#分类导航)
 - [ChatGPT](#chatgpt)
-- [ChatGPT -](#chatgpt--)
+- [Midjourney](#midjourney)
 - [ChatGPT - 微信机器人](#chatgpt---微信机器人)
 - [ChatGPT - QQ 聊天机器人](#chatgpt---qq-聊天机器人)
 - [ChatGPT - Telegram 聊天机器人](#chatgpt---telegram-聊天机器人)
@@ -65,7 +65,7 @@
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 
-## ChatGPT -
+## Midjourney
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
   - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
