@@ -44,22 +44,22 @@
   - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
   - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - WebChat 网页聊天机器人
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
+  - [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+  - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+  - [JVM](https://github.com/deephacks/awesome-jvm#readme)
+  - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 - WeChatBot 微信机器人
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/inputsh/awesome-linux#readme)
+  - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+  - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+  - [Linux](https://github.com/inputsh/awesome-linux#readme)
 - QQBot 聊天机器人
-- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+  - [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+  - [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+  - [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+  - [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - TelegramBot 聊天机器人
-- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm#readme)
+  - [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+  - [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 
 ## Midjourney
 
