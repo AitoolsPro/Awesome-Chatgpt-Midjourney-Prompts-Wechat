@@ -1,9 +1,10 @@
 ## Awesome-Chatgpt-Midjoureny-Prompts-Wechat
 
 <div align="center">
-    <a href="https://www.aitools.chat/" target="_blank" rel="noopener">
-        <img width="500" height="350" src="media/aitools-logo-favicon.svg">
-    </a>    
+
+        <img width="200" height="200" src="media/aitools-logo-favicon.svg">
+
+
 </div>
 
 <p align="center">
