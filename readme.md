@@ -1,3 +1,5 @@
+## Awesome-Chatgpt-Midjoureny-Prompts-Wechat
+
 <div align="center">
     <a href="https://www.aitools.chat/" target="_blank" rel="noopener">
         <img width="500" height="350" src="media/aitools-logo-favicon.svg">
@@ -15,13 +17,13 @@
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>Ai工具指南，让工具成为思维的延伸</b>
 </div>
 
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>收集整理最好的开源项目</sub>
 </p>
 <br>
 
