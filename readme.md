@@ -30,8 +30,8 @@
 - [Aitools 艾兔思](#aitools-艾兔思)
 - [分类导航](#分类导航)
 - [ChatGPT](#chatgpt)
-- [Midjourney](#midjourney)
 - [Prompts](#prompts)
+- [Midjourney](#midjourney)
 
 ## ChatGPT
 
@@ -59,25 +59,9 @@
   - [TelegramBot 1](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT 电报机器人：GPT-4。快速地。没有每日限制。特殊聊天模式.
   - [TelegramBot 2](https://github.com/TBXark/ChatGPT-Telegram-Workers) - 支持免费部署
 
-## Midjourney
-
-- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-  - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-  - [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
-  - [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
-  - [Tips](https://github.com/loverajoel/jstips#readme)
-  - [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
-  - [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-  - [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-  - [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-  - [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-  - [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-  - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-  - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
-
 ## Prompts
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
+- [chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南,整理了一些中文 prompt，大家可以学习一下.
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
 - [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
@@ -93,3 +77,19 @@
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
+
+## Midjourney
+
+- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+  - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
+  - [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+  - [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
+  - [Tips](https://github.com/loverajoel/jstips#readme)
+  - [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
+  - [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
+  - [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+  - [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
+  - [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+  - [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
+  - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+  - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
