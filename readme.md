@@ -1,15 +1,15 @@
 <div align="center">
-	<a href="https://www.aitools.chat/" target="_blank">
-		<img width="500" height="350" src="media/aitools-logo-favicon.svg" >	
-	</a>		
+    <a href="https://www.aitools.chat/" target="_blank" rel="noopener">
+        <img width="500" height="350" src="media/aitools-logo-favicon.svg">
+    </a>    
 </div>
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
+	<a href="https://www.aitools.chat/">Aitools-ai导航</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://bbs.aitools.chat/">Aitools-论坛</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://discord.gg/JKcJHvJqEG">Discord频道</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/AitoolsChats">TeleGram</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/kongdaofu16">Twitter</a>
 </p>
 
 <br>
