@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-	<sub>收集整理最好的开源项目</sub>
+	<sub>持续更新最热门优质的Ai开源项目</sub>
 </p>
 <br>
 
