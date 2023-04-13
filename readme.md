@@ -1,8 +1,7 @@
 <div align="center">
-	<a href="https://www.aitools.chat/">
+	<a href="https://www.aitools.chat/" target="_blank">
 		<img width="500" height="350" src="media/aitools-logo-favicon.svg" >	
-	</a>
-			
+	</a>		
 </div>
 
 <p align="center">
