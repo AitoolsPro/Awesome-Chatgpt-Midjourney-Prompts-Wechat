@@ -35,14 +35,16 @@
 
 ## ChatGPT
 
+- Desktop application 桌面应用程序
+  - [ChatGPT 桌面应用 1](https://github.com/lencx/ChatGPT) - 英文界面，需要魔法使用账号密码登录（非 API KEY），支持（Mac, Windows and Linux）系统，支持聊天内容导出，有声播放，自定义 prompt 导入非常强大。作者：@lencx
+  - [ChatGPT 桌面应用 2](https://github.com/lencx/nofwl) - 中文界面，需 API key 使用功能，支持（Mac, Windows and Linux）系统，为 1 版本升级版，更加强大。作者：@lencx
 - WeChat Mini Program 微信小程序
+
   - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
   - [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
   - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
   - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- Desktop application 桌面应用程序
-  - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-  - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+
 - WebChat 网页聊天机器人
   - [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
   - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
