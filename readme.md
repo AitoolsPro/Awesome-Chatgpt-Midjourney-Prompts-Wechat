@@ -27,12 +27,12 @@
 </p>
 <br>
 
-## Contents
+## 分类导航
 
 - [Awesome-Chatgpt-Midjoureny-Prompts-Wechat](#awesome-chatgpt-midjoureny-prompts-wechat)
-- [Contents](#contents)
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
+- [分类导航](#分类导航)
+- [ChatGPT 优质开源项目](#chatgpt-优质开源项目)
+- [Prompt 优质开源项目](#prompt-优质开源项目)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
@@ -59,7 +59,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
-## Platforms
+## ChatGPT 优质开源项目
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
   - [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
@@ -117,7 +117,7 @@
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 
-## Programming Languages
+## Prompt 优质开源项目
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
   - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
