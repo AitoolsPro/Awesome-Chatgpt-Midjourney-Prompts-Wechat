@@ -29,8 +29,8 @@
 
 - [Aitools 艾兔思](#aitools-艾兔思)
 - [分类导航](#分类导航)
-- [ChatGPT - 微信小程序](#chatgpt---微信小程序)
-- [ChatGPT - 网页聊天机器人](#chatgpt---网页聊天机器人)
+- [ChatGPT](#chatgpt)
+- [ChatGPT -](#chatgpt--)
 - [ChatGPT - 微信机器人](#chatgpt---微信机器人)
 - [ChatGPT - QQ 聊天机器人](#chatgpt---qq-聊天机器人)
 - [ChatGPT - Telegram 聊天机器人](#chatgpt---telegram-聊天机器人)
@@ -40,16 +40,17 @@
 - [Editors](#editors)
 - [Gaming](#gaming)
 
-## ChatGPT - 微信小程序
+## ChatGPT
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+- 微信小程序
+  - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
   - [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
+  - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
+  - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- 桌面应用程序
+  - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+  - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+  - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 - [Linux](https://github.com/inputsh/awesome-linux#readme)
@@ -64,7 +65,7 @@
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 
-## ChatGPT - 网页聊天机器人
+## ChatGPT -
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
   - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
