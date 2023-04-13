@@ -29,6 +29,8 @@
 
 ## Contents
 
+- [Awesome-Chatgpt-Midjoureny-Prompts-Wechat](#awesome-chatgpt-midjoureny-prompts-wechat)
+- [Contents](#contents)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
