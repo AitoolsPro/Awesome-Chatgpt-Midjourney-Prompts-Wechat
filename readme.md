@@ -35,19 +35,16 @@
 
 ## ChatGPT
 
-- Desktop application 桌面应用程序
+- 桌面应用程序
   - [ChatGPT 桌面应用 1](https://github.com/lencx/ChatGPT) - 英文界面，需要魔法使用账号密码登录（非 API KEY），支持（Mac, Windows and Linux）系统，支持聊天内容导出，有声播放，自定义 prompt 导入非常强大。作者：@lencx
   - [ChatGPT 桌面应用 2](https://github.com/lencx/nofwl) - 中文界面，需 API key 使用功能，支持（Mac, Windows and Linux）系统，为 1 版本升级版，更加强大。作者：@lencx
 - WeChat Mini Program 微信小程序
 
-  - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-  - [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-  - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-  - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+  - [GeekChat](https://github.com/inccleo/GeekChat) - 一个基于 OpenAI 的 ChatGPT API 的微信小程序项目，前端采用 uni-app 框架，后端使用 PHP Webman。通过这个小程序，用户可以与 ChatGPT 模型进行对话。微信政策经常封杀 CHATGPT 小程序
 
 - WebChat 网页聊天机器人
-  - [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-  - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+  - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - Chatbot UI 是一个高级聊天机器人工具包，适用于 OpenAI 的聊天模型，它使用 Next.js、TypeScript 和 Tailwind CSS 在 Chatbot UI Lite 之上构建。支持 Vercel 部署
+  - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键免费部分加入你的私人 ChatGPT 网页应用。支持 Vercel 部署
   - [JVM](https://github.com/deephacks/awesome-jvm#readme)
   - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 - WeChatBot 微信机器人
