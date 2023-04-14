@@ -31,7 +31,6 @@
 - [分类导航](#分类导航)
 - [ChatGPT](#chatgpt)
 - [Prompts](#prompts)
-- [Midjourney](#midjourney)
 
 ## ChatGPT
 
@@ -61,35 +60,8 @@
 
 ## Prompts
 
+- [ClickPrompt ](https://github.com/addyosmani/critical-path-css-tools#readme) - ClickPrompt 是一款专为 Prompt 编写者设计的工具，支持多种基于 Prompt 的 AI 应用，如 Stable Diffusion、ChatGPT、GitHub Copilot 等。通过 ClickPrompt，您可以轻松查看、分享、一键运行这些模型，并提供在线提示生成器，使用户能够轻松创建符合自己需求的提示并分享给其他人。
+- [Prompt 编写模式】=](https://github.com/prompt-engineering/prompt-patterns) - 如何将思维框架赋予机器.
 - [chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南,整理了一些中文 prompt，大家可以学习一下.
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-- [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-  - [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
-  - [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-  - [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
-  - [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
-  - [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-  - [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
-  - [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
-- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
-- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
-
-## Midjourney
-
-- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-  - [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-  - [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
-  - [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
-  - [Tips](https://github.com/loverajoel/jstips#readme)
-  - [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
-  - [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-  - [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-  - [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-  - [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-  - [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-  - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-  - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
+- [ChatGPT 和 Bing AI 提示](https://github.com/yokoffing/ChatGPT-Prompts) - 英文版右键翻译查看
+- [ChatGPT-提示](https://github.com/PrathamKumar14/ChatGPT-Prompts) - 英文版右键翻译查看
