@@ -30,6 +30,7 @@
 - [Aitools 艾兔思](#aitools-艾兔思)
 - [分类导航](#分类导航)
 - [ChatGPT](#chatgpt)
+- [Auto-GPT](#auto-gpt)
 - [Prompts](#prompts)
 
 ## ChatGPT
@@ -57,6 +58,11 @@
 - TelegramBot 聊天机器人
   - [TelegramBot 1](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT 电报机器人：GPT-4。快速地。没有每日限制。特殊聊天模式.
   - [TelegramBot 2](https://github.com/TBXark/ChatGPT-Telegram-Workers) - 支持免费部署
+
+## Auto-GPT
+
+- [Auto-GPT ](https://github.com/Significant-Gravitas/Auto-GPT) - Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 AI 可能的界限。
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - AgentGPT 允许您配置和部署自治 AI 代理。 命名你自己的自定义 AI，让它开始实现任何可以想象的目标。 它将尝试通过思考要做的任务、执行它们并从结果中学习来达到目标 🚀.
 
 ## Prompts
 
